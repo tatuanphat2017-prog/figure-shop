@@ -1,4 +1,58 @@
+<<<<<<< HEAD
 [
   { "id": 1, "name": "Luffy", "price": 900000, "image": "assets/products/luffy.jpg", "stock": 5, "category": "One Piece" }
 ]
 
+=======
+[
+  {
+    "id": 1,
+    "name": "luffy",
+    "price": 900000,
+    "image": "assets/products/lufy.jpg",
+    "stock": 5,
+    "category": "One Piece"
+  },
+  {
+    "id": 2,
+    "name": "Naruto",
+    "price": 1100000,
+    "image": "assets/products/Naruto.jpg",
+    "stock": 3,
+    "category": "Naruto"
+  },
+  {
+    "id": 3,
+    "name": "itachi",
+    "price": 1500000,
+    "image": "assets/products/itachi.jpg",
+    "stock": 2,
+    "category": "Naruto"
+  },
+  {
+    "id": 4,
+    "name": "gojo",
+    "price": 1600000,
+    "image": "assets/products/gojo.jpg",
+    "stock": 4,
+    "category": "Jujutsu Kaisen"
+  },
+  {
+    "id": 5,
+    "name": "batman",
+    "price": 1800000,
+    "image": "assets/products/batman03.jpg",
+    "stock": 1,
+    "category": "DC"
+  },
+  {
+    "id": 6,
+    "name": "spiderman",
+    "price": 1700000,
+    "image": "assets/products/spiderman.jpg",
+    "stock": 6,
+    "category": "Marvel"
+  }
+]
+
+>>>>>>> 404e455 (init figure shop)

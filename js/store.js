@@ -32,6 +32,10 @@ export function setCart(items) {
   else sessionStorage.setItem(key, val);
 }
 
+export function cartCount() {
+  return getCart().reduce((s, x) => s + x.qty, 0);
+}
+
 export function addToCart(line) {
   const cart = getCart();
   const idx = cart.findIndex(
@@ -42,6 +46,3 @@ export function addToCart(line) {
   setCart(cart);
 }
 
-export function cartCount() {
-  return getCart().reduce((s, x) => s + x.qty, 0);
-}
