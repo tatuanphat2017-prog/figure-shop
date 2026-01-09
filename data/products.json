@@ -9,7 +9,7 @@
     "id": 1,
     "name": "luffy",
     "price": 900000,
-    "image": "assets/products/lufy.jpg",
+    "image": "assets/products/luffy.jpg",
     "stock": 5,
     "category": "One Piece"
   },
